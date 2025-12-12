@@ -51,3 +51,4 @@ Notes and assumptions:
 - Equipment quantities are enforced across overlapping bookings.
 - Coach weekly availability is supported; here we seed coaches as available 07:00-21:00.
 This uses a JSON file datastore for portability during the demo. For production you'd swap this for Postgres/MySQL and proper transactions.
+"# court-booking-platform" 
